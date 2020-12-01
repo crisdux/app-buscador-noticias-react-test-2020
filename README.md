@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+## Vista previa del proyecto
+![poster](./poster.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
